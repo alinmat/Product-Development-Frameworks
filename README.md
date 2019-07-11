@@ -1,7 +1,5 @@
 # Product-Development-Frameworks
 
-Collection of product development frameworks.
-
 ### [AARRR, Startup Metrics for Pirates](http://alinmat.com/productdepot/aarrr-startup-metrics-for-pirates/?ref=git)
 
 Five-step model for creating a metrics framework for your business and customers, and how to apply it to your product and marketing efforts.
